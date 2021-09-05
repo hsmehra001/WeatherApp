@@ -21,7 +21,7 @@ body{
     border-radius: 8px;
 }
 .app-main >*{
-    margin-bottom: 30px;
+    margin-bottom: 0px;
 }
 .inputBox{
     width: 100%;
